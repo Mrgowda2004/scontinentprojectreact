@@ -1,0 +1,187 @@
+[{
+  "_id": {
+    "$oid": "652a9b75c10c44d0c65c5f19"
+  },
+  "id": 1,
+  "title": " Machine Learning Fundamentals",
+  "content": "This is the content for Card 1.",
+  "Mode": "online",
+  "duration": "Duration:6 weeks",
+  "img": "https://th.bing.com/th/id/OIP.QFFxI9pdItMf6DPUpFKoDgHaEK?w=278&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+},
+{
+  "_id": {
+    "$oid": "652a9b75c10c44d0c65c5f1a"
+  },
+  "id": 2,
+  "title": " Advanced Data Analysis",
+  "content": "Master advanced techniques for Master advanced techniques for data analysis and visualization. data analysis and visualization.",
+  "Mode": "ofline",
+  "duration": "Duration: 8 weeks",
+  "img": "https://th.bing.com/th/id/OIP.mA_jHGJb_mjRmSZ7ErwMrwHaEj?w=279&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+},
+{
+  "_id": {
+    "$oid": "652a9b75c10c44d0c65c5f1b"
+  },
+  "id": 3,
+  "title": " Introduction to Web Development",
+  "content": "An introductory course on web development technologies and concepts",
+  "Mode": "online",
+  "duration": "Duration: 9 weeks",
+  "img": "https://th.bing.com/th/id/OIP.5rFf1XjITUgrvqy_lCnP6AHaEK?w=312&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+},
+{
+  "_id": {
+    "$oid": "652a9b75c10c44d0c65c5f1c"
+  },
+  "id": 4,
+  "title": " Python Programming for Beginners",
+  "content": "Learn the basics of data science, including data analysis and visualization.",
+  "Mode": "online",
+  "duration": "Duration: 6 weeks",
+  "img": "https://th.bing.com/th/id/OIP.cG7NwDSIWTstCS_Ip6uc-wHaDo?w=335&h=171&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+},
+{
+  "_id": {
+    "$oid": "652a9b75c10c44d0c65c5f1d"
+  },
+  "id": 5,
+  "title": " Data Science Fundamentals",
+  "content": "Description: Learn the fundamentals of Python programming, including syntax, data types, and control structures. Develop simple applications and gain a solid foundation in coding.",
+  "Mode": "online",
+  "duration": "Duration: 8 weeks",
+  "img": "https://th.bing.com/th/id/OIP.BpsuOdS7_yO2aNHXA4ZEFgHaD4?w=238&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+},
+{
+  "_id": {
+    "$oid": "652a9b75c10c44d0c65c5f1e"
+  },
+  "id": 6,
+  "title": " Digital Marketing Masterclass",
+  "content": "Explore various digital marketing strategies, including SEO, social media, email campaigns, and analytics. Gain practical skills to promote businesses online effectively.",
+  "Mode": "offline",
+  "duration": "Duration: 12 weeks",
+  "img": "https://th.bing.com/th/id/OIP.sWR11aDeA922tofCdcRL4gHaEK?w=292&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+},
+{
+  "_id": {
+    "$oid": "652a9b75c10c44d0c65c5f1f"
+  },
+  "id": 7,
+  "title": " Modern and Contemporary Art and Design Specialization",
+  "content": "Explore various digital marketing strategies, including SEO, social media, email campaigns, and analytics. Gain practical skills to promote businesses online effectively.",
+  "Mode": "ofline",
+  "duration": "Duration: 9 weeks",
+  "img": "https://th.bing.com/th?id=OSK.HEROjkHufmp6QfJzNOxkbKIzto37FPVq27QLMBay7VPbCCY&w=472&h=280&c=1&rs=2&o=6&dpr=1.3&pid=SANGAM"
+},
+{
+  "_id": {
+    "$oid": "652a9b75c10c44d0c65c5f20"
+  },
+  "id": 8,
+  "title": "Financial Literacy for Beginners",
+  "content": "Understand personal finance concepts, including budgeting, saving, investing, and managing debt. Build a strong foundation for making informed financial decisions.",
+  "Mode": "ofline",
+  "duration": "Duration: 12 weeks",
+  "img": "https://th.bing.com/th/id/OIP.ispwekMFb2LgjCTlQiVs5gHaDt?w=312&h=175&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+},
+{
+  "_id": {
+    "$oid": "652a9b75c10c44d0c65c5f21"
+  },
+  "id": 9,
+  "title": "Introduction to Graphic Design",
+  "content": "Understand personal finance concepts, including budgeting, saving, investing, and managing debt. Build a strong foundation for making informed financial decisions.",
+  "Mode": "online",
+  "duration": "Duration: 3 weeks",
+  "img": "https://th.bing.com/th/id/OIP.Yz8792SskgegD6jkTGYO7QHaEK?w=301&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+},
+{
+  "_id": {
+    "$oid": "652a9b75c10c44d0c65c5f22"
+  },
+  "id": 10,
+  "title": "Spanish Language Immersion",
+  "content": "Immerse yourself in the Spanish language and culture. Develop speaking, listening, reading, and writing skills through interactive activities and conversations.",
+  "Mode": "online",
+  "duration": "Duration: 6 weeks",
+  "img": "https://th.bing.com/th/id/OIP.zCLwJYrOfaHW2oJntrobZAHaEK?w=325&h=183&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+},
+{
+  "_id": {
+    "$oid": "652a9b75c10c44d0c65c5f23"
+  },
+  "id": 11,
+  "title": "Introduction to Artificial Intelligence",
+  "content": "Explore the foundations of AI, including machine learning and neural networks. Understand how AI technologies are shaping various industries.",
+  "Mode": "online",
+  "duration": "Duration: 12 weeks",
+  "img": "https://th.bing.com/th/id/OIP.e-diSyk1Td4FRiwt0lAbjwHaEV?w=309&h=181&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+},
+{
+  "_id": {
+    "$oid": "652a9b75c10c44d0c65c5f24"
+  },
+  "id": 12,
+  "title": "Yoga and Mindfulness Meditation",
+  "content": "Discover yoga postures and mindfulness techniques for stress reduction and relaxation. Enhance physical flexibility and mental well-being.",
+  "Mode": "online",
+  "duration": "Duration: 8 weeks",
+  "img": "https://th.bing.com/th/id/OIP.kFydTVgdNLOp042oFV5_6wHaEF?w=307&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+},
+{
+  "_id": {
+    "$oid": "652a9b75c10c44d0c65c5f25"
+  },
+  "id": 13,
+  "title": "Introduction to Astrophysics",
+  "content": "Delve into the mysteries of the universe, studying celestial bodies, cosmology, and the fundamental principles of astrophysics.",
+  "Mode": "online",
+  "duration": "Duration: 14 weeks",
+  "img": "https://th.bing.com/th/id/OIP.3pVVDh7Z2hgvvJ-uEnEBSwHaEt?w=271&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+},
+{
+  "_id": {
+    "$oid": "652a9b75c10c44d0c65c5f26"
+  },
+  "id": 14,
+  "title": "Professional Development and Career Success",
+  "content": "Learn essential skills for career growth, including communication, networking, time management, and goal setting. Gain insights into building a successful professional trajectory.",
+  "Mode": "online",
+  "duration": "Duration: 7 weeks",
+  "img": "https://th.bing.com/th/id/OIP.vTJWh5Cf1FzZB7pg5-BSsQHaE8?w=279&h=187&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+},
+{
+  "_id": {
+    "$oid": "652a9b75c10c44d0c65c5f27"
+  },
+  "id": 15,
+  "title": "Machine Learning",
+  "content": " is a branch of Artificial Intelligence where the system learns from the data, identifies patterns and makes decisions with minimal human intervention.",
+  "Mode": "online",
+  "duration": "Duration: 14 weeks",
+  "img": "https://th.bing.com/th?id=OIP.7u5bQsTw_bllP32M_iK9BgHaEo&w=316&h=197&c=8&rs=1&qlt=90&o=6&dpr=1.3&pid=3.1&rm=2"
+},
+{
+  "_id": {
+    "$oid": "652a9b75c10c44d0c65c5f28"
+  },
+  "id": 16,
+  "title": " Medical and Biological Science",
+  "content": " As much as people try to lead and live a healthy life, medical practitioners  ",
+  "Mode": "ofline",
+  "duration": "Duration: 50 weeks",
+  "img": "https://th.bing.com/th/id/OIP.b47HrAilL4-8kcesLKYdOAHaEK?w=284&h=180&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+},
+{
+  "_id": {
+    "$oid": "652a9b75c10c44d0c65c5f29"
+  },
+  "id": 17,
+  "title": "  Wealth Management",
+  "content": "Wealth Management is a program that not many people are aware of. However, it can provide you with a plethora of new opportunities in the finance sector. ",
+  "Mode": "ofline",
+  "duration": "Duration: 18 weeks",
+  "img": "https://th.bing.com/th/id/OIP.GguFo2dbTBcqoKN5s1VsXAAAAA?w=322&h=181&c=7&r=0&o=5&dpr=1.3&pid=1.7"
+}]
